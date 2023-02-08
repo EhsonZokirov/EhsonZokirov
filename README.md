@@ -44,5 +44,6 @@
 
 # СОЦ. СЕТИ:
 
+['./icons/instagram.png']('https://www.instagram.com/ehsonback/')
 [<img src='./icons/instagram.png' width='48px'/>]('https://www.instagram.com/ehsonback/')
 [<img src='./icons/Linked in.png' width='50px'/>]('https://www.linkedin.com/in/ehson-zokirov/')
