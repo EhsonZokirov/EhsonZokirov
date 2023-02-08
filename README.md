@@ -1,6 +1,13 @@
-### Hi there 👋
+<img src='./git banner.png'/>
 
-<!--
+# Привет 👋
+#### Меня зовут Эхсон,
+#### я Junior Frontend разработчик !
+- Изучаю React Js
+- Буду рад дельному совету )
+
+
+<!-- 
 **EhsonZokirov/EhsonZokirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
