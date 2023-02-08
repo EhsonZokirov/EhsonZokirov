@@ -22,13 +22,14 @@
 
 # Языки и инструменты:
 
-<img src="./C++.png" width='20px'/>
-<img src="./HTML css JS.png" width='60px'/>
-<img src="./React.png" width='20px'/>
-<img src="./Tailwind.png" width='25px'/>
-<img src="./MUI logo.png" width='25px'/>
-<img src="./Redux.png" width='25px'/>
-
+<img align='left' src="./C++.png" width='20px'/>
+<img align='left' src="./HTML css JS.png" width='60px'/>
+<img align='left' src="./React.png" width='20px'/>
+<img align='left' src="./Tailwind.png" width='25px'/>
+<img align='left' src="./MUI logo.png" width='25px'/>
+<img  src="./Redux.png" width='25px'/>
+ 
+# 
 # Контакты:
 
 📞 +992 886 47 12 12
