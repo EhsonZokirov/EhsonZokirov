@@ -42,7 +42,7 @@
 
 #
 
-# Ссылки:
+# СОЦ. СЕТИ:
 
 [<img src='./instagram.png' width='48px'/>]('https://www.instagram.com/ehsonback/')
 [<img src='./Linked in.png' width='50px'/>]('www.linkedin.com/in/ehson-zokirov')
