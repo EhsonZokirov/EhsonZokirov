@@ -23,7 +23,9 @@
 # Языки и инструменты:
 
 <img align='left' src="./C++.png" width='20px'/>
-<img align='left' src="./HTML css JS.png" width='60px'/>
+<img align='left' src="./html.png" width='20px'/>
+<img align='left' src="./css.png" width='20px'/>
+<img align='left' src="./js.png" width='30px'/>
 <img align='left' src="./React.png" width='20px'/>
 <img align='left' src="./Tailwind.png" width='25px'/>
 <img align='left' src="./MUI logo.png" width='25px'/>
