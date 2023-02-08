@@ -44,6 +44,6 @@
 
 # СОЦ. СЕТИ:
 
-[![instagram](./icons/instagram.png)](https://www.instagram.com/ehsonback/)
+[instagram](https://www.instagram.com/ehsonback/)
 
-[![Linkedin](./icons/Linked%20in.png)](https://www.linkedin.com/in/ehson-zokirov/)
+[Linkedin](https://www.linkedin.com/in/ehson-zokirov/)
