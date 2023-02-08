@@ -22,12 +22,12 @@
 
 # Языки и инструменты:
 
-<img src="./C++.png" width='40px'/>
-<img src="./HTML css JS.png" width='130px'/>
-<img src="./React.png" width='40px'/>
-<img src="./Tailwind.png" width='45px'/>
-<img src="./MUI logo.png" width='45px'/>
-<img src="./Redux.png" width='45px'/>
+<img src="./C++.png" width='20px'/>
+<img src="./HTML css JS.png" width='60px'/>
+<img src="./React.png" width='20px'/>
+<img src="./Tailwind.png" width='25px'/>
+<img src="./MUI logo.png" width='25px'/>
+<img src="./Redux.png" width='25px'/>
 
 # Контакты:
 
