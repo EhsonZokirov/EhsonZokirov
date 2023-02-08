@@ -22,14 +22,14 @@
 
 # Языки и инструменты:
 
-<img align='left' src="./C++.png" width='30px'/>
-<img align='left' src="./html.png" width='30px'/>
-<img align='left' src="./css.png" width='35px'/>
-<img align='left' src="./js.png" width='45px'/>
-<img align='left' src="./React.png" width='30px'/>
-<img align='left' src="./Tailwind.png" width='35px'/>
-<img align='left' src="./MUI logo.png" width='35px'/>
-<img  src="./Redux.png" width='45px'/>
+<img align='left' src="./icons/C++.png" width='30px'/>
+<img align='left' src="./icons/html.png" width='30px'/>
+<img align='left' src="./icons/css.png" width='35px'/>
+<img align='left' src="./icons/js.png" width='45px'/>
+<img align='left' src="./icons/React.png" width='30px'/>
+<img align='left' src="./icons/Tailwind.png" width='35px'/>
+<img align='left' src="./icons/MUI logo.png" width='35px'/>
+<img  src="./icons/Redux.png" width='45px'/>
  
 # 
 # Контакты:
@@ -44,5 +44,5 @@
 
 # СОЦ. СЕТИ:
 
-[<img src='./instagram.png' width='48px'/>]('https://www.instagram.com/ehsonback/')
-[<img src='./Linked in.png' width='50px'/>]('www.linkedin.com/in/ehson-zokirov')
+[<img src='./icons/instagram.png' width='48px'/>]('https://www.instagram.com/ehsonback/')
+[<img src='./icons/Linked in.png' width='50px'/>]('www.linkedin.com/in/ehson-zokirov')
