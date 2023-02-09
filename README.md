@@ -31,7 +31,7 @@
 <img align='left' src="./icons/MUI logo.png" width='35px'/>
 <img  src="./icons/Redux.png" width='45px'/>
  
-# 
+--------
 # Контакты:
 
 📞 +992 886 47 12 12
