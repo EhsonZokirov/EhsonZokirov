@@ -7,9 +7,7 @@
 </h2>
 
 #
-<h1 align="start">
-О СЕБЕ:
-</h1>
+
 
 <h3 align="center">
 
