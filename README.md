@@ -1,5 +1,5 @@
 <img src='./git banner.png'/>
-<h1 align="center" style="color:"red"">
+<h1 align="center" style={{"color:"red""}}>
 Привет 👋
 </h1>
 <h2 align="center">
