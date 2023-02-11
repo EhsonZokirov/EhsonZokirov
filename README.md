@@ -33,6 +33,10 @@
 <img  src="./icons/Redux.png" width='45px'/>
  
 --------
+<div style="display:'flex'">
+
+<div>
+ 
 # Контакты:
 
 📞 +992 886 47 12 12
@@ -40,8 +44,9 @@
 📍 Душанбе, Таджикистан
 
 📧 zakirov3000.ze@gmail.com
-
+</div>
 #
+<div>
 
 # СОЦ. СЕТИ:
 
@@ -50,3 +55,5 @@
 > [Linkedin](https://www.linkedin.com/in/ehson-zokirov/)
 
 > [Telegram](https://t.me/ehsonsho)
+</div>
+</div>
