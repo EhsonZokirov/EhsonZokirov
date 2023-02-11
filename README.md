@@ -53,7 +53,8 @@
  
 --------
 
- 
+ <h1 align="center">
+ <h2>
 # Контакты:
 
 📞 +992 886 47 12 12
@@ -61,12 +62,11 @@
 📍 Душанбе, Таджикистан
 
 📧 zakirov3000.ze@gmail.com
-
+ </h2>
  
 #
  
-
-
+ <h2>
 # СОЦ. СЕТИ:
 
 > [instagram](https://www.instagram.com/ehsonback/)
@@ -74,3 +74,5 @@
 > [Linkedin](https://www.linkedin.com/in/ehson-zokirov/)
 
 > [Telegram](https://t.me/ehsonsho)
+ </h2>
+</h1>
