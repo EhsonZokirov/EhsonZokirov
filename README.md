@@ -33,14 +33,16 @@
 
 # Языки и инструменты:
 
-<img align='left' src="./icons/C++.png" width='30px'/>
-<img align='left' src="./icons/html.png" width='30px'/>
-<img align='left' src="./icons/css.png" width='35px'/>
-<img align='left' src="./icons/js.png" width='45px'/>
-<img align='left' src="./icons/React.png" width='30px'/>
-<img align='left' src="./icons/Tailwind.png" width='35px'/>
-<img align='left' src="./icons/MUI logo.png" width='35px'/>
-<img  src="./icons/Redux.png" width='45px'/>
+<h1 align="center">
+<img align='center' src="./icons/C++.png" width='30px'/>
+<img align='center' src="./icons/html.png" width='30px'/>
+<img align='center' src="./icons/css.png" width='35px'/>
+<img align='center' src="./icons/js.png" width='45px'/>
+<img align='center' src="./icons/React.png" width='30px'/>
+<img align='center' src="./icons/Tailwind.png" width='35px'/>
+<img align='center' src="./icons/MUI logo.png" width='35px'/>
+<img align="center" src="./icons/Redux.png" width='45px'/>
+</h1>
  
 --------
 
