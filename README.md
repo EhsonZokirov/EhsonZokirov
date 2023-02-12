@@ -1,5 +1,5 @@
 <img src='./git banner.png'/>
-<h1 align="center" style={{"color:"red""}}>
+<h1 align="center">
 Привет 👋
 </h1>
 <h2 align="center">
@@ -63,10 +63,15 @@
  
 #
  
-### Социалные сети:
 
-> [instagram](https://www.instagram.com/ehsonback/)
+<h5 align="end">
+ 
+Социалные сети:
+ 
+ [instagram](https://www.instagram.com/ehsonback/)
 
-> [Linkedin](https://www.linkedin.com/in/ehson-zokirov/)
+ [Linkedin](https://www.linkedin.com/in/ehson-zokirov/)
 
-> [Telegram](https://t.me/ehsonsho)
+ [Telegram](https://t.me/ehsonsho)
+
+</h5>
