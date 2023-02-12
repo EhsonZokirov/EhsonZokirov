@@ -63,11 +63,12 @@
  
 #
  
+ <h2 align="end">
+Социалные сети:
+</h2>
 
 <h5 align="end">
- 
-Социалные сети:
- 
+  
  [instagram](https://www.instagram.com/ehsonback/)
 
  [Linkedin](https://www.linkedin.com/in/ehson-zokirov/)
