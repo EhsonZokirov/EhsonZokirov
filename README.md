@@ -5,7 +5,6 @@
 <h2 align="center">
  Меня зовут Эхсон, я Junior Frontend разработчик !
 </h2>
->>>>>>> d26630f156dad4b57b3d098a1f5cfe79b845a097
 
 #
 
