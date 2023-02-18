@@ -1,4 +1,4 @@
-<img src='./git banner.png'/>
+<img src='./Banner.png'/>
 
 # Привет 👋
 
