@@ -6,7 +6,7 @@
  Меня зовут Эхсон, я Junior Frontend разработчик !
 </h2>
 
-#
+
 
 
 <h3 align="center">
