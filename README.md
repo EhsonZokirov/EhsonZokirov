@@ -1,7 +1,4 @@
 <img src='./Banner.png'/>
-<h1 align="center">
-Привет !
-</h1>
 <h2 align="center">
  Меня зовут Эхсон, я Junior Frontend разработчик !
 </h2>
